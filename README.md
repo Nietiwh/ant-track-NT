@@ -1,11 +1,11 @@
 
 # 🐜 ant-track — Análisis de Gastos Hormiga con Python
 
-# Maria Fernanda Herrera A.
-# Santiago 
-# Aureliano Velasquez
-# Maricela 
-# Julian P
+Maria Fernanda Herrera A.
+Santiago 
+Aureliano Velasquez
+Maricela 
+Julian P
 
 
 > *"Las hormigas son pequeñas, pero en colonia pueden mover montañas... y vaciar tu billetera."*
