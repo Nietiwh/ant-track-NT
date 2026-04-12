@@ -1,9 +1,12 @@
 
-# Hola estoy haciendo un daño
-
 # 🐜 ant-track — Análisis de Gastos Hormiga con Python
 
-## Aqui va los nombres de los integrantes
+# Maria Fernanda Herrera A.
+# Santiago 
+# Aureliano Velasquez
+# Maricela 
+# Julian P
+
 
 > *"Las hormigas son pequeñas, pero en colonia pueden mover montañas... y vaciar tu billetera."*
 
